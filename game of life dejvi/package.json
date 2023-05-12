@@ -1,0 +1,22 @@
+{
+  "name": "game-of-life-dejvi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdvahvfugw/gameoflife.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahdvahvfugw/gameoflife/issues"
+  },
+  "homepage": "https://github.com/ahdvahvfugw/gameoflife#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
